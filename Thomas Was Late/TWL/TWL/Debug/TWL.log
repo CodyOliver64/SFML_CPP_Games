@@ -1,7 +1,0 @@
-﻿  HUD.cpp
-c:\users\cody\documents\sfml games\projects\thomas was late\twl\twl\hud.cpp(26): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
-          with
-          [
-              T=unsigned int
-          ]
-  TWL.vcxproj -> C:\Users\Cody\Documents\SFML Games\Projects\Thomas Was Late\TWL\Debug\TWL.exe
